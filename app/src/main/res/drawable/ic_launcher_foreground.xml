@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left open book page -->
+    <path
+        android:fillColor="#F7F4EC"
+        android:pathData="M28,40 C28,37.2 30.2,35.2 33,35.7 L52,39.5 L52,75.5 L32,71.8 C29.8,71.4 28,69.4 28,67.1 Z" />
+    <!-- Right open book page -->
+    <path
+        android:fillColor="#E8F3EE"
+        android:pathData="M80,40 C80,37.2 77.8,35.2 75,35.7 L56,39.5 L56,75.5 L76,71.8 C78.2,71.4 80,69.4 80,67.1 Z" />
+    <!-- Gold center spine / bookmark -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M52,39.5 L56,39.5 L56,79 L54,75.5 L52,79 Z" />
+    <!-- Gold crescent moon above book -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M56.5,22.5 C51.2,22.5 47,26.7 47,32 C47,37.3 51.2,41.5 56.5,41.5 C57.8,41.5 59.1,41.2 60.2,40.7 C56.8,40.1 54.2,36.4 54.2,32 C54.2,27.6 56.8,23.9 60.2,23.3 C59.1,22.8 57.8,22.5 56.5,22.5 Z" />
+</vector>

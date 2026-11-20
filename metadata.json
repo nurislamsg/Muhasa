@@ -1,0 +1,6 @@
+{
+  "name": "Дневник Мухасабы",
+  "description": "Дневник самоконтроля и очищения нафса: учёт намазов, ракатов, Корана, азкаров, зикра, чтения книг, самоанализа и таймер беспечности.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
